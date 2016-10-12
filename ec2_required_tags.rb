@@ -23,7 +23,6 @@ template do
     },
     Path: '/',
     ManagedPolicyArns: [
-      'arn:aws:iam::aws:policy/AmazonEC2ReadOnlyAccess',
       'arn:aws:iam::aws:policy/service-role/AWSConfigRulesExecutionRole',
       'arn:aws:iam::aws:policy/service-role/AWSLambdaBasicExecutionRole'
     ]
