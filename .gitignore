@@ -1,0 +1,6 @@
+vendor/bundle
+*.template
+rpms
+certs
+creds
+templates
